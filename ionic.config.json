@@ -1,0 +1,7 @@
+{
+  "name": "IrrigaTomate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

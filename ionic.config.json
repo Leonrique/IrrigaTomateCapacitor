@@ -1,7 +1,8 @@
 {
   "name": "IrrigaTomate",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
